@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2e8176e4cdd7d7f6682
+type: experiment
+name: bf4_ Enable OOB Profiles
+flag: bf4_EnableOOBProfiles
+value: true
