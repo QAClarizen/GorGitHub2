@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad49e730d1b63f8cb4782
+type: experiment
+name: bf4_ Support Hide Report Grid
+flag: bf4_SupportHideReportGrid
+value: true
