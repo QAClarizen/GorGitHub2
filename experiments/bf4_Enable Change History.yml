@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad23438406058a5f2b8df
+type: experiment
+name: bf4_ Enable Change History
+flag: bf4_Enable Change History
+value: true
