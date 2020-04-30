@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4d73840607dfcf2f854
+type: experiment
+name: bf4_ Use New Version Of Resource Management
+flag: bf4_UseNewVersionOfResourceManagement
+conditions:
+  - group:
+      name: bf4_Mariash
+    value: true
+value: false
