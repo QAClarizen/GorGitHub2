@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3f33840606528f2de27
+type: experiment
+name: bf4_ Notify Objects View Not Found
+flag: bf4_NotifyObjectsViewNotFound
+value: false
