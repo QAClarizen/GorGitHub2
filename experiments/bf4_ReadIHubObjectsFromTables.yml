@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4773840602fd3f2ea95
+type: experiment
+name: bf4_ Read I Hub Objects From Tables
+flag: bf4_ReadIHubObjectsFromTables
+conditions:
+  - group:
+      name:
+        - bf4_WHF155Org_
+        - bf4_SyncAutomation
+    value: true
+value: false
