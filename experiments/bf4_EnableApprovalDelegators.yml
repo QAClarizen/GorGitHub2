@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2623eb9354367447ef2
+type: experiment
+name: bf4_ Enable Approval Delegators
+flag: bf4_EnableApprovalDelegators
+value: false
