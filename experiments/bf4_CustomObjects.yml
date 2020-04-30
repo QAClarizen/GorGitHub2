@@ -1,0 +1,20 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad21a3eb935e59d4479b1
+type: experiment
+name: bf4_ Custom Objects
+flag: bf4_CustomObjects
+conditions:
+  - group:
+      name:
+        - bf4_Float Factor  28929
+        - bf4_float00_clone3
+    value: false
+  - group:
+      name:
+        - bf4_Test Downgrade  103636
+        - bf4_EINAT18
+        - bf4_Clone 1 AABB
+        - bf4_Clone Of Clone AABB
+        - bf4_clone 11
+    value: true
+value: true
