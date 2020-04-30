@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1af102b9c7fd3a18d61
+type: experiment
+name: bf4_ Summary Field Calculate Optimistic Decision Timespan
+flag: bf4_SummaryFieldCalculateOptimisticDecisionTimespan
+availableValues:
+  - '750'
+value: '750'
