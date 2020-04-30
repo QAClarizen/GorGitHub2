@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2173840604b48f2b703
+type: experiment
+name: bf4_ Case Custom Fields More500
+flag: bf4_CaseCustomFieldsMore500
+value: false
