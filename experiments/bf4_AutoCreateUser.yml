@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1c438406021bbf2aed0
+type: experiment
+name: bf4_ Auto Create User
+flag: bf4_AutoCreateUser
+value: false
