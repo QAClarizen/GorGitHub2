@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad368e47e6c6360abbeea
+type: experiment
+name: bf4_ Enable Team Member View
+flag: bf4_EnableTeamMemberView
+value: false
