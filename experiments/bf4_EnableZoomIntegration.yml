@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad37805b4b25d55516ded
+type: experiment
+name: bf4_ Enable Zoom Integration
+flag: bf4_EnableZoomIntegration
+value: false
