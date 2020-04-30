@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad504730d1b4a75cb5384
+type: experiment
+name: bf4_ Use New BR Quota Calculation
+flag: bf4_UseNewBRQuotaCalculation
+conditions:
+  - group:
+      name: bf4_SMSC
+    value: false
+  - group:
+      name: bf4_br check 2
+    value: true
+value: false
