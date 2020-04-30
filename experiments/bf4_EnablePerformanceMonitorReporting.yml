@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2f93840603c35f2ca22
+type: experiment
+name: bf4_ Enable Performance Monitor Reporting
+flag: bf4_EnablePerformanceMonitorReporting
+conditions:
+  - group:
+      name: bf4_SMSC
+    value: false
+  - group:
+      name: bf4_APIReleaseManagement
+    value: true
+value: false
