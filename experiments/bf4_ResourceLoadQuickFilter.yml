@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad44d44356f5558880660
+type: experiment
+name: bf4_ Resource Load Quick Filter
+flag: bf4_ResourceLoadQuickFilter
+value: true
