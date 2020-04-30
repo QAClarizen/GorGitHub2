@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4143840605c88f2dfa1
+type: experiment
+name: bf4_ Parent Org
+flag: bf4_ParentOrg
+conditions:
+  - group:
+      name:
+        - bf4_Mariash
+        - bf4_SMSC
+        - bf4_smsc clone refresh testing 6
+        - bf4_Programm  483780
+    value: true
+value: false
