@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad18d05b4b27c9751427e
+type: experiment
+name: bf4_ Max Fast Lane Delay Sec
+flag: bf4_MaxFastLaneDelaySec
+availableValues:
+  - '300'
+value: '300'
