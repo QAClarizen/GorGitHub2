@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2853eb9352edf44821f
+type: experiment
+name: bf4_ Enable Download With Long Time Job
+flag: bf4_EnableDownloadWithLongTimeJob
+conditions:
+  - group:
+      name: bf4_loadlr
+    value: true
+value: false
