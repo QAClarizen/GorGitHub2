@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad455730d1b84f3cb3f78
+type: experiment
+name: bf4_ Release Management
+flag: bf4_ReleaseManagement
+value: false
