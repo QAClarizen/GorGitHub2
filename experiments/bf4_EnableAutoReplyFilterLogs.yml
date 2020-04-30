@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2773eb935ec4d4480fd
+type: experiment
+name: bf4_ Enable Auto Reply Filter Logs
+flag: bf4_EnableAutoReplyFilterLogs
+value: false
