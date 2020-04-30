@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad20a05b4b2086e514ef8
+type: experiment
+name: bf4_ Converting Custom Field At Internal Level
+flag: bf4_ConvertingCustomFieldAtInternalLevel
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4__clone2
+    value: false
+  - group:
+      name:
+        - bf4_mariaclcom
+        - bf4_OneLogin19278
+        - bf4_OneLoginClone
+    value: true
+value: false
