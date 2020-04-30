@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3e9b27477bcc59f7c64
+type: experiment
+name: bf4_ Packaging Custom Entities
+flag: bf4_PackagingCustomEntities
+value: false
