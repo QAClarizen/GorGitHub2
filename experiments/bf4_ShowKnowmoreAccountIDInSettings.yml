@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4ba05b4b2bc12518ba2
+type: experiment
+name: bf4_ Show Knowmore Account ID In Settings
+flag: bf4_ShowKnowmoreAccountIDInSettings
+value: false
