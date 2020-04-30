@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad27d3eb9359b35448152
+type: experiment
+name: bf4_ Enable Bottom Up Planning FF
+flag: bf4_EnableBottomUpPlanningFF
+conditions:
+  - group:
+      name: bf4_testbucp_clone1
+    value: false
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_testbucpRM
+    value: true
+value: false
