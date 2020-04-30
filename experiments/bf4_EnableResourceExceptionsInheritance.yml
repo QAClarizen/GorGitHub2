@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2f805b4b26c305161de
+type: experiment
+name: bf4_ Enable Resource Exceptions Inheritance
+flag: bf4_EnableResourceExceptionsInheritance
+value: false
