@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad439730d1b2c50cb3be9
+type: experiment
+name: bf4_ Report Grouping Icons And Links
+flag: bf4_ReportGroupingIconsAndLinks
+conditions:
+  - group:
+      name: bf4_testru Fiscal Calendar  March1
+    value: true
+value: true
