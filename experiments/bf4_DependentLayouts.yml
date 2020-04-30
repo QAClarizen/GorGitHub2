@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2213eb935f8894479bb
+type: experiment
+name: bf4_ Dependent Layouts
+flag: bf4_DependentLayouts
+conditions:
+  - group:
+      name:
+        - bf4_Einat
+        - bf4_Test Downgrade  103636
+        - bf4_EINAT18
+        - bf4_EINAT95
+        - bf4_EINAT98
+        - bf4_Clone 1 AABB
+        - bf4_Clone Of Clone AABB
+        - bf4_clone 11
+    value: true
+value: true
