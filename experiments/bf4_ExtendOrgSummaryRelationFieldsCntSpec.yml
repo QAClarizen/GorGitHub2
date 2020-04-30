@@ -1,0 +1,32 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad184102b9c8a8da1891a
+type: experiment
+name: bf4_ Extend Org Summary Relation Fields Cnt Spec
+flag: bf4_ExtendOrgSummaryRelationFieldsCntSpec
+availableValues:
+  - '0'
+  - '35'
+  - '50'
+  - '60'
+conditions:
+  - group:
+      name:
+        - bf4_EINAT78
+        - bf4_EINAT88
+    value: '35'
+  - group:
+      name:
+        - bf4_SMSC
+        - bf4_smsc clone refresh testing 6
+        - bf4_Clarizen Int
+        - bf4_Clarizen int_clone11
+        - bf4_Clarizen Int_Clone1
+        - bf4_Clarizen Int_Clone2
+    value: '50'
+  - group:
+      name:
+        - bf4_EINAT60
+        - bf4_EINAT_60_Clone2
+        - bf4_Ilan
+    value: '60'
+value: '0'
