@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2273eb9354c44447a36
+type: experiment
+name: bf4_ Custom Field Can Inherit Permissions
+flag: bf4_CustomFieldCanInheritPermissions
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_upgradedToEnhanced
+    value: false
+  - group:
+      name: bf4_upgradedToBasic
+    value: true
+value: false
