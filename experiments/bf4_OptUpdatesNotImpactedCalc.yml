@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3e2b274771c1f9f7c25
+type: experiment
+name: bf4_ Opt Updates Not Impacted Calc
+flag: bf4_OptUpdatesNotImpactedCalc
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4__clone2
+    value: false
+  - group:
+      name:
+        - bf4_testrate2
+        - bf4_ratecard
+    value: true
+value: false
