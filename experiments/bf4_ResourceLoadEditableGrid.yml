@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad47105b4b272c2518177
+type: experiment
+name: bf4_ Resource Load Editable Grid
+flag: bf4_ResourceLoadEditableGrid
+value: true
