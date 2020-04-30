@@ -1,0 +1,21 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad31505b4b2baba516575
+type: experiment
+name: bf4_ Enable Share Point Collective Access
+flag: bf4_EnableSharePointCollectiveAccess
+conditions:
+  - group:
+      name:
+        - bf4_sksk
+        - bf4_sksksk
+    value: false
+  - group:
+      name:
+        - bf4_sksksksk
+        - bf4_Clarizen Int
+        - bf4_Vadim QA Cloning
+        - bf4_sharepointlohikacom
+        - bf4_mk
+        - bf4_qwer
+    value: true
+value: false
