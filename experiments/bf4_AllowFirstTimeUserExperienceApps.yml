@@ -1,0 +1,23 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1ba3840602c75f2accf
+type: experiment
+name: bf4_ Allow First Time User Experience Apps
+flag: bf4_AllowFirstTimeUserExperienceApps
+conditions:
+  - group:
+      name:
+        - bf4_Mariash
+        - bf4_mariaclcom
+    value: false
+  - group:
+      name:
+        - bf4_Einat
+        - bf4_Test Downgrade  103636
+        - bf4_EINAT18
+        - bf4_EINAT95
+        - bf4_EINAT98
+        - bf4_Clone 1 AABB
+        - bf4_Clone Of Clone AABB
+        - bf4_clone 11
+    value: true
+value: true
