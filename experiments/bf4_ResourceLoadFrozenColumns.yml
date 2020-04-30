@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad44605b4b23053517d8a
+type: experiment
+name: bf4_ Resource Load Frozen Columns
+flag: bf4_ResourceLoadFrozenColumns
+value: true
