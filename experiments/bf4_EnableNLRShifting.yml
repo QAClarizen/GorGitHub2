@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2e2bbbdbc26915c99a1
+type: experiment
+name: bf4_ Enable NLR Shifting
+flag: bf4_EnableNLRShifting
+value: true
