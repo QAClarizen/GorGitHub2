@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2dabbbdbc33645c9963
+type: experiment
+name: bf4_ Enable Parents Check
+flag: bf4_EnableParentsCheck
+value: false
