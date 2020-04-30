@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4f944356fa9ac8818d3
+type: experiment
+name: bf4_ Use API Performance Improvements
+flag: bf4_UseAPIPerformanceImprovements
+value: false
