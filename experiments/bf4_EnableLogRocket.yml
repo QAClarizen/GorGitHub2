@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2bfbbbdbcb3d35c97d6
+type: experiment
+name: bf4_ Enable Log Rocket
+flag: bf4_EnableLogRocket
+value: false
