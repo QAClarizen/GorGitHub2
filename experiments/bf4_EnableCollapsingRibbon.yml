@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad28abbbdbc5cef5c91ad
+type: experiment
+name: bf4_ Enable Collapsing Ribbon
+flag: bf4_EnableCollapsingRibbon
+value: false
