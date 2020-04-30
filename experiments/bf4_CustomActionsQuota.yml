@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1843eb9352c23446cee
+type: experiment
+name: bf4_ Custom Actions Quota
+flag: bf4_CustomActionsQuota
+availableValues:
+  - '0'
+  - '20'
+  - '520'
+conditions:
+  - group:
+      name: bf4_acc3
+    value: '20'
+  - group:
+      name: bf4_testru Fiscal Calendar  March1
+    value: '520'
+value: '0'
