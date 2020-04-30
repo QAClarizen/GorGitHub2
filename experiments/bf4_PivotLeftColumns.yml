@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3f457d28004c5dae148
+type: experiment
+name: bf4_ Pivot Left Columns
+flag: bf4_PivotLeftColumns
+value: true
