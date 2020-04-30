@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad50c384060d44bf2fdff
+type: experiment
+name: bf4_ Use Rolling Paging
+flag: bf4_UseRollingPaging
+value: true
