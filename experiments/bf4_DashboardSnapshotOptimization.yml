@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad23d05b4b245c35153cf
+type: experiment
+name: bf4_ Dashboard Snapshot Optimization
+flag: bf4_DashboardSnapshotOptimization
+conditions:
+  - group:
+      name:
+        - bf4_loadlr
+        - bf4_Dashboard Auto Test
+    value: true
+value: true
