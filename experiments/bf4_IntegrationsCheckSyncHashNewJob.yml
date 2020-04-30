@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3d0b2747744619f7b7a
+type: experiment
+name: bf4_ Integrations Check Sync Hash New Job
+flag: bf4_IntegrationsCheckSyncHashNewJob
+value: true
