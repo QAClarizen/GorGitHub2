@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad23d3eb935e8c0447b57
+type: experiment
+name: bf4_ Enable Api O Auth Application
+flag: bf4_EnableApiOAuthApplication
+value: false
