@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2963eb93566b54483a2
+type: experiment
+name: bf4_ Enable Custom Timesheet Page
+flag: bf4_EnableCustomTimesheetPage
+value: true
