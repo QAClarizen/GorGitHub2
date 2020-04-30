@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2b105b4b276a0515d11
+type: experiment
+name: bf4_ Enable Meeting Note
+flag: bf4_EnableMeetingNote
+value: false
