@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad33c05b4b28437516810
+type: experiment
+name: bf4_ Enable Time Approval
+flag: bf4_EnableTimeApproval
+value: false
