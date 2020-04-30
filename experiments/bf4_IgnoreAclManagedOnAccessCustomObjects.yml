@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad396384060692df2d94b
+type: experiment
+name: bf4_ Ignore Acl Managed On Access Custom Objects
+flag: bf4_IgnoreAclManagedOnAccessCustomObjects
+conditions:
+  - group:
+      name: bf4_acc1 Calendar 454
+    value: true
+value: true
