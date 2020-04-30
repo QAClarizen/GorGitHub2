@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad191102b9c07c8a18b71
+type: experiment
+name: bf4_ Api Calls Throttling Warning Requests Per Second Per UI User
+flag: bf4_ApiCallsThrottlingWarningRequestsPerSecondPerUIUser
+availableValues:
+  - '0'
+value: '0'
