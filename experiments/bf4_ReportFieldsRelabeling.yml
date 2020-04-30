@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad45f730d1b5ab4cb4083
+type: experiment
+name: bf4_ Report Fields Relabeling
+flag: bf4_ReportFieldsRelabeling
+conditions:
+  - group:
+      name: bf4_upgradedToEnhanced
+    value: false
+  - group:
+      name: bf4_testru Fiscal Calendar  March1
+    value: true
+value: true
