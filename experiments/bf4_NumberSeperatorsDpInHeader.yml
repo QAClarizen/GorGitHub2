@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3dcb27477eeab9f7c18
+type: experiment
+name: bf4_ Number Seperators Dp In Header
+flag: bf4_NumberSeperatorsDpInHeader
+value: false
