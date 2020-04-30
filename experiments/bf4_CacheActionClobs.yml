@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1ea05b4b2c256514d7e
+type: experiment
+name: bf4_ Cache Action Clobs
+flag: bf4_CacheActionClobs
+conditions:
+  - group:
+      name:
+        - bf4_ju_julialiskot
+        - bf4_BR_TEST
+    value: true
+value: false
