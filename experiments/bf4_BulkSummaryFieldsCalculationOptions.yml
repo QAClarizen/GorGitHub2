@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad16605b4b20636513dae
+type: experiment
+name: bf4_ Bulk Summary Fields Calculation Options
+flag: bf4_BulkSummaryFieldsCalculationOptions
+availableValues:
+  - '0'
+value: '0'
