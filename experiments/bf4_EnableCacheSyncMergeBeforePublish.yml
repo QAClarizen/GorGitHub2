@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad283384060d114f2bf9e
+type: experiment
+name: bf4_ Enable Cache Sync Merge Before Publish
+flag: bf4_EnableCacheSyncMergeBeforePublish
+conditions:
+  - group:
+      name: bf4_TestDirtyFlag231757
+    value: false
+  - group:
+      name: bf4_vkorg
+    value: true
+value: false
