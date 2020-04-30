@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad37d05b4b217a9516e3d
+type: experiment
+name: bf4_ Export Dashboard
+flag: bf4_ExportDashboard
+value: true
