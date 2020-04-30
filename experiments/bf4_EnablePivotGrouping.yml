@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad30105b4b2249a516338
+type: experiment
+name: bf4_ Enable Pivot Grouping
+flag: bf4_EnablePivotGrouping
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4__clone2
+    value: true
+value: true
