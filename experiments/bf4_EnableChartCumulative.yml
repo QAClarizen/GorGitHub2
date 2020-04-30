@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad26b3eb935676e44800d
+type: experiment
+name: bf4_ Enable Chart Cumulative
+flag: bf4_EnableChartCumulative
+value: true
