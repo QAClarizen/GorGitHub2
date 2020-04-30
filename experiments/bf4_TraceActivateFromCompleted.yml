@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4af730d1bfe36cb49ac
+type: experiment
+name: bf4_ Trace Activate From Completed
+flag: bf4_TraceActivateFromCompleted
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4__clone2
+        - bf4_EladQA1
+    value: true
+value: false
