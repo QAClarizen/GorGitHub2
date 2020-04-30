@@ -1,0 +1,19 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4e005b4b20b1e518e3b
+type: experiment
+name: bf4_ Api Calls Throttling Excluded Api Requesters
+flag: bf4_ApiCallsThrottlingExcludedApiRequesters
+availableValues:
+  - ' '
+  - (null)
+  - DataLoader
+conditions:
+  - group:
+      name: bf4_ju_julialiskot
+    value: ' '
+  - group:
+      name:
+        - bf4_QAUA
+        - bf4_vkorg
+    value: DataLoader
+value: (null)
