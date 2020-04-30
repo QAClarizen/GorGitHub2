@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad389b27477b3d89f7756
+type: experiment
+name: bf4_ Filtered Lookups
+flag: bf4_FilteredLookups
+value: true
