@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad310176e4ce2d87f6a9b
+type: experiment
+name: bf4_ Enable Resource Assignments In Capacity Planning
+flag: bf4_EnableResourceAssignmentsInCapacityPlanning
+conditions:
+  - group:
+      name: bf4_testrate2
+    value: false
+  - group:
+      name:
+        - bf4_Winterfell
+        - bf4_Like a Version
+    value: true
+value: false
