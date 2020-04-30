@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad44105b4b2b892517d75
+type: experiment
+name: bf4_ Resource Load Col Management
+flag: bf4_ResourceLoadColManagement
+value: true
