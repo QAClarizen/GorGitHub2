@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2713840602b46f2bf25
+type: experiment
+name: bf4_ Enable Async Perf Mon Publish
+flag: bf4_EnableAsyncPerfMonPublish
+value: true
