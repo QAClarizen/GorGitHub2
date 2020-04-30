@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad350e47e6c4b62abbd78
+type: experiment
+name: bf4_ Enable Shifting Project Assignment
+flag: bf4_EnableShiftingProjectAssignment
+value: false
