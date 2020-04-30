@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2443eb9352426447b85
+type: experiment
+name: bf4_ Enable Assigned Approver
+flag: bf4_EnableAssignedApprover
+value: false
