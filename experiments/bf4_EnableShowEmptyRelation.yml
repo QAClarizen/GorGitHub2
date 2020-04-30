@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad32e384060d545f2d0d2
+type: experiment
+name: bf4_ Enable Show Empty Relation
+flag: bf4_EnableShowEmptyRelation
+value: false
