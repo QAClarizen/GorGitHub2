@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3adb27477f9239f78f9
+type: experiment
+name: bf4_ License Sub System
+flag: bf4_LicenseSubSystem
+value: true
