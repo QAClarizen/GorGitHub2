@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2bd05b4b21dcd515dda
+type: experiment
+name: bf4_ Enable Job Separation
+flag: bf4_EnableJobSeparation
+value: false
