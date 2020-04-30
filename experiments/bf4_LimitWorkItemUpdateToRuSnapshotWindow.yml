@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3b405b4b26cc3517197
+type: experiment
+name: bf4_ Limit Work Item Update To Ru Snapshot Window
+flag: bf4_LimitWorkItemUpdateToRuSnapshotWindow
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_newru
+    value: false
+  - group:
+      name:
+        - bf4_testfrozen  Fiscal Year Start 1March
+        - bf4_newfin
+    value: true
+value: true
