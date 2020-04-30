@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad269bbbdbc0ee35c8f16
+type: experiment
+name: bf4_ Enable Async Events Graph Load
+flag: bf4_EnableAsyncEventsGraphLoad
+value: false
