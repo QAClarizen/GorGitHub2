@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad20305b4b24d98514ea7
+type: experiment
+name: bf4_ Compare Resource Management Results
+flag: bf4_CompareResourceManagementResults
+conditions:
+  - group:
+      name: bf4_mariaclcom
+    value: true
+value: false
