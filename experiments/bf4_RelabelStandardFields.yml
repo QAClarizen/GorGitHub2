@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad41857d280621fdae502
+type: experiment
+name: bf4_ Relabel Standard Fields
+flag: bf4_RelabelStandardFields
+value: true
