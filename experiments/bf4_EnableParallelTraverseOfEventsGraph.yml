@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2f205b4b25a605161a7
+type: experiment
+name: bf4_ Enable Parallel Traverse Of Events Graph
+flag: bf4_EnableParallelTraverseOfEventsGraph
+conditions:
+  - group:
+      name: bf4_vkorg
+    value: true
+value: false
