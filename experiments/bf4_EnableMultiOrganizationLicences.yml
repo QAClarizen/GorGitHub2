@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2b738406082abf2c4a0
+type: experiment
+name: bf4_ Enable Multi Organization Licences
+flag: bf4_EnableMultiOrganizationLicences
+conditions:
+  - group:
+      name: bf4_SMSC
+    value: false
+  - group:
+      name: bf4_Programm  483780
+    value: true
+value: false
