@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad486730d1b12afcb44ca
+type: experiment
+name: bf4_ Resource Load Snapshot By HR
+flag: bf4_ResourceLoadSnapshotByHR
+conditions:
+  - group:
+      name:
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_testfrozen  Fiscal Year Start 1March
+    value: true
+value: true
