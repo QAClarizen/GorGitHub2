@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad38f05b4b2c3aa516f93
+type: experiment
+name: bf4_ Hlpc Job On Fast Lane
+flag: bf4_HlpcJobOnFastLane
+conditions:
+  - group:
+      name: bf4_SMSC
+    value: true
+value: false
