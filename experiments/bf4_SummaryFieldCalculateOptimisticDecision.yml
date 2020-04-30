@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4c83840604e86f2f6e6
+type: experiment
+name: bf4_ Summary Field Calculate Optimistic Decision
+flag: bf4_SummaryFieldCalculateOptimisticDecision
+value: false
