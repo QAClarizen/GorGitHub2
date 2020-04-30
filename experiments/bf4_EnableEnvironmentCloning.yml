@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad28e3eb935ad6d4482be
+type: experiment
+name: bf4_ Enable Environment Cloning
+flag: bf4_EnableEnvironmentCloning
+value: true
