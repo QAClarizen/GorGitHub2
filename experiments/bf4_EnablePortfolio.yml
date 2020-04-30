@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad308176e4c4ad07f6a33
+type: experiment
+name: bf4_ Enable Portfolio
+flag: bf4_EnablePortfolio
+conditions:
+  - group:
+      name: bf4_EINAT88
+    value: true
+value: true
