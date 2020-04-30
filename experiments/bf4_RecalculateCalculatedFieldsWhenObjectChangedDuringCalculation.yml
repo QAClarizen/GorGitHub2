@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad411730d1bcba7cb3a13
+type: experiment
+name: bf4_ Recalculate Calculated Fields When Object Changed During Calculation
+flag: bf4_RecalculateCalculatedFieldsWhenObjectChangedDuringCalculation
+value: false
