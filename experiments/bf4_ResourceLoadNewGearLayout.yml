@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad47e44356f3832880c36
+type: experiment
+name: bf4_ Resource Load New Gear Layout
+flag: bf4_ResourceLoadNewGearLayout
+value: true
