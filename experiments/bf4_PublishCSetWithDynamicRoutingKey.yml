@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad446730d1b1d04cb3d6f
+type: experiment
+name: bf4_ Publish C Set With Dynamic Routing Key
+flag: bf4_PublishCSetWithDynamicRoutingKey
+value: false
