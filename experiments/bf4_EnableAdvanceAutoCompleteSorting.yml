@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad25b3840605d66f2bc42
+type: experiment
+name: bf4_ Enable Advance Auto Complete Sorting
+flag: bf4_EnableAdvanceAutoCompleteSorting
+value: true
