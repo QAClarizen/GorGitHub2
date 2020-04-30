@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad31a176e4c3c657f6b4f
+type: experiment
+name: bf4_ Enable Resource Load Auto Save Suspension
+flag: bf4_EnableResourceLoadAutoSaveSuspension
+conditions:
+  - group:
+      name: bf4_testru Fiscal Calendar  March1
+    value: false
+  - group:
+      name: bf4__clone2
+    value: true
+value: false
