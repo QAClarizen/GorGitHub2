@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1a3102b9c5ba4a18bea
+type: experiment
+name: bf4_ Resource Management Size Treshold
+flag: bf4_ResourceManagementSizeTreshold
+availableValues:
+  - '100'
+  - '50000'
+conditions:
+  - group:
+      name: bf4_ju_julialiskot
+    value: '50000'
+value: '100'
