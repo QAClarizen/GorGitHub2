@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad49144356fdb2c880dca
+type: experiment
+name: bf4_ Retain Hierarchy
+flag: bf4_RetainHierarchy
+value: true
