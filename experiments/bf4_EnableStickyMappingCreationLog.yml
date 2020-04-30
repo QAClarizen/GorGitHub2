@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad358384060dd52f2d467
+type: experiment
+name: bf4_ Enable Sticky Mapping Creation Log
+flag: bf4_EnableStickyMappingCreationLog
+value: false
