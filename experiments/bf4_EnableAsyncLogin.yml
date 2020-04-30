@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad24d384060ff06f2bae3
+type: experiment
+name: bf4_ Enable Async Login
+flag: bf4_EnableAsyncLogin
+value: true
