@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1c005b4b27ed6514783
+type: experiment
+name: bf4_ Api Tokens
+flag: bf4_ApiTokens
+conditions:
+  - group:
+      name: bf4_sksksksk
+    value: true
+value: false
