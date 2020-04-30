@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad48f730d1b7e1ecb4549
+type: experiment
+name: bf4_ Summary Field Calculate Job Decision Log
+flag: bf4_SummaryFieldCalculateJobDecisionLog
+conditions:
+  - group:
+      name:
+        - bf4_QAUA
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_loadlr
+        - bf4__clone2
+        - bf4_EINAT60
+        - bf4_EINAT_60_Clone2
+        - bf4_Ilan
+    value: true
+value: false
