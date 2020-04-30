@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2c8bbbdbc69e85c9818
+type: experiment
+name: bf4_ Enable Overview Fields
+flag: bf4_EnableOverviewFields
+value: true
