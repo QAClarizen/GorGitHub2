@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad48205b4b236035183a2
+type: experiment
+name: bf4_ Show Slow Relations In Grid
+flag: bf4_ShowSlowRelationsInGrid
+value: false
