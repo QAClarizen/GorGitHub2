@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2ea05b4b2a2f55160c9
+type: experiment
+name: bf4_ Enable Profile Properties
+flag: bf4_EnableProfileProperties
+value: true
