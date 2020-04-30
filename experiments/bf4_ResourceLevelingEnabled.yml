@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad46c730d1b9646cb4177
+type: experiment
+name: bf4_ Resource Leveling Enabled
+flag: bf4_ResourceLevelingEnabled
+value: false
