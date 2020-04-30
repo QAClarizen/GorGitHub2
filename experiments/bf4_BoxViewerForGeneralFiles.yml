@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad1dc3eb935168944759c
+type: experiment
+name: bf4_ Box Viewer For General Files
+flag: bf4_BoxViewerForGeneralFiles
+value: true
