@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad33fe47e6c0a6dabbd53
+type: experiment
+name: bf4_ Enable Share Point Multiple Site Collections Support
+flag: bf4_EnableSharePointMultipleSiteCollectionsSupport
+conditions:
+  - group:
+      name:
+        - bf4_sksk
+        - bf4_sksksk
+    value: false
+  - group:
+      name:
+        - bf4_sksksksk
+        - bf4_Clarizen Int
+    value: true
+value: false
