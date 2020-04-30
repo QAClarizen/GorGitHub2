@@ -1,0 +1,35 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad17a05b4b213a3514023
+type: experiment
+name: bf4_ Cloning Quota
+flag: bf4_CloningQuota
+availableValues:
+  - '0'
+  - '10'
+  - '2'
+  - '3'
+  - '6'
+  - '7'
+conditions:
+  - group:
+      name: bf4_SMSC
+    value: '10'
+  - group:
+      name: bf4_Vadim QA Cloning
+    value: '2'
+  - group:
+      name:
+        - bf4_Test Downgrade  103636
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_Natalia
+        - bf4_MW Org
+    value: '3'
+  - group:
+      name:
+        - bf4_750cf
+        - bf4_testclonemany
+    value: '6'
+  - group:
+      name: bf4_FilterBasic
+    value: '7'
+value: '0'
