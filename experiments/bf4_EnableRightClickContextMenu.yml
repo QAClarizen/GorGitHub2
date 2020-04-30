@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad30a05b4b2456e51647d
+type: experiment
+name: bf4_ Enable Right Click Context Menu
+flag: bf4_EnableRightClickContextMenu
+conditions:
+  - group:
+      name:
+        - bf4_Natalia 2
+        - bf4_sgdgs
+    value: false
+  - group:
+      name: bf4_Natalia
+    value: true
+value: false
