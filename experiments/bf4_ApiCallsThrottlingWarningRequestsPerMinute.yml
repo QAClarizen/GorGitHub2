@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad15c102b9c92eca18567
+type: experiment
+name: bf4_ Api Calls Throttling Warning Requests Per Minute
+flag: bf4_ApiCallsThrottlingWarningRequestsPerMinute
+availableValues:
+  - '0'
+  - '3'
+conditions:
+  - group:
+      name:
+        - bf4_SMSC
+        - bf4_smsc clone refresh testing 6
+    value: '3'
+value: '0'
