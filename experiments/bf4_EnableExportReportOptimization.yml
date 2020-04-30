@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2a405b4b2c1af515bd6
+type: experiment
+name: bf4_ Enable Export Report Optimization
+flag: bf4_EnableExportReportOptimization
+value: true
