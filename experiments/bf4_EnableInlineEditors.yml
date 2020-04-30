@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad29d3840609b40f2c241
+type: experiment
+name: bf4_ Enable Inline Editors
+flag: bf4_EnableInlineEditors
+conditions:
+  - group:
+      name: bf4_EINAT78
+    value: true
+value: true
