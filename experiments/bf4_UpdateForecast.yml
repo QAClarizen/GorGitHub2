@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4cc05b4b20743518d35
+type: experiment
+name: bf4_ Update Forecast
+flag: bf4_UpdateForecast
+value: false
