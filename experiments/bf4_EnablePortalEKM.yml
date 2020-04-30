@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad2e33840605a15f2c900
+type: experiment
+name: bf4_ Enable Portal EKM
+flag: bf4_EnablePortalEKM
+conditions:
+  - group:
+      name: bf4_Mariash
+    value: false
+  - group:
+      name:
+        - bf4_QAUA
+        - bf4_EINAT60
+    value: true
+value: true
