@@ -1,0 +1,266 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad17c3840602925f2a593
+type: experiment
+name: bf4_ Derived Dependencies Special Treatment
+flag: bf4_DerivedDependenciesSpecialTreatment
+availableValues:
+  - '1'
+  - '2'
+conditions:
+  - group:
+      name:
+        - bf4_Einat
+        - bf4_Test Downgrade  103636
+        - bf4_EINAT18
+        - bf4_EINAT95
+        - bf4_EINAT98
+        - bf4_Clone 1 AABB
+        - bf4_Clone Of Clone AABB
+        - bf4_clone 11
+        - bf4_SMSC
+        - bf4_QAUA
+        - bf4_smsc clone refresh testing 6
+        - bf4_ju_julialiskot
+        - bf4_vkorg
+        - bf4_throttling2
+        - bf4_BR_TEST
+        - bf4_throttling
+        - bf4_Clarizen Int
+        - bf4_Clarizen int_clone11
+        - bf4_Clarizen Int_Clone1
+        - bf4_Clarizen Int_Clone2
+        - bf4_testru Fiscal Calendar  March1
+        - bf4_loadlr
+        - bf4_Float Factor  28929
+        - bf4_testrm  no Fiscal Year
+        - bf4_float00_clone3
+        - bf4_Lohika Test Anton 23
+        - bf4_WHF155Org_
+        - bf4_Natalia
+        - bf4_750cf
+        - bf4_FilterBasic
+        - bf4__clone2
+        - bf4_OneLogin19278
+        - bf4_OneLoginClone
+        - bf4_acc3
+        - bf4_upgradedToEnhanced
+        - bf4_upgradedToBasic
+        - bf4_ALERTS TEST227793
+        - bf4_Programm  483780
+        - bf4_750cf_clone1
+        - bf4_750cf_clone2
+        - bf4_750cf_clone1_clone11
+        - bf4_750cf_clone1_clone12
+        - bf4_750cf_clone1_clone11_Clone111
+        - bf4_Dashboard Auto Test
+        - bf4_Template Repository
+        - bf4_test4235345
+        - bf4_Acme Corp
+        - bf4_Gossip Girl TV Show12595
+        - bf4_Bastya12972
+        - bf4_888
+        - bf4_STOP Saturday and Sunday 8h  OrgID13315
+        - bf4_Clarizen Products Team
+        - bf4_Terra Incognita
+        - bf4_Template Repository _
+        - bf4_444
+        - bf4_Burda Moden
+        - bf4_asherorg
+        - bf4_FBI  19759
+        - bf4_michal
+        - bf4_QA27819
+        - bf4_ELC engagement request
+        - bf4_Clarizen Ophir
+        - bf4_orgFilterEnh
+        - bf4_3Base Org
+        - bf4_v6upgrade1 HF46
+        - bf4_v6upgrade2
+        - bf4_Mail
+        - bf4_Orgrov
+        - bf4_e35r34t
+        - bf4_FrozenColumns_WorkPlanOnly32757
+        - bf4_AA
+        - bf4_QAA
+        - bf4_Shay Test Account III
+        - bf4_Meidan Inc
+        - bf4_Team 007
+        - bf4_XSS880880
+        - bf4_InterActTECCAssign770770
+        - bf4_OKTA_QA
+        - bf4_Performance
+        - bf4_Lior20140730 140008
+        - bf4_ChartViewsFR5
+        - bf4_ChangeType_FromTaskHammock612549
+        - bf4_FrozenColumns_WorkPlan7307251
+        - bf4_FindAndReplaceManager279322
+        - bf4_DataLoaderWorkItemsWithLinks410157
+        - bf4_London 114312
+        - bf4_ShortcutsRegressionTest469860
+        - bf4_ShortcutsRegressionTest822531
+        - bf4_First Task
+        - bf4_RolesAndAuthorizations_External555705
+        - bf4_RolesAndAuthorizations_Internal272064
+        - bf4_FieldSet_OnlyDefaultFields794462
+        - bf4_FieldSet_AggregationTest751070
+        - bf4_FieldSet_AggregationFinancialSuperUser76157
+        - bf4_FieldSet_DefaultProfileImpact926361
+        - bf4_FieldsSet_AggregateNoAggregateDefaultProfile623546
+        - bf4_ProfilesSanityForAllSections5120
+        - bf4_Clarizen test account
+        - bf4_testbp1
+        - bf4_Calendar view
+        - bf4_Testing Environment
+        - bf4_ProfilesBugs42688
+        - bf4_CLARIZEN65
+        - bf4_ProfilesPermissionsOnViews924705
+        - bf4_HighLightSelectedField868612
+        - bf4_ProfilesWithCustomizationAndInteract728723
+        - bf4_liadqa
+        - bf4_Elad MM  184706
+        - bf4_EINAT90
+        - bf4_dinaAnkonina
+        - bf4_HighLightCustomField44732
+        - bf4_RL_VerifyFilters508403
+        - bf4_ConditionalFormatting822628
+        - bf4_71
+        - bf4_EINAT77
+        - bf4_EINAT55
+        - bf4_hf43testedition
+        - bf4_testrl
+        - bf4_Cobra 199543
+        - bf4_EINAT60
+        - bf4_testfrozen  Fiscal Year Start 1March
+        - bf4_RL_QuickFilters89167
+        - bf4_Test000
+        - bf4_mmbasic
+        - bf4_ChangeType_FromMS989300
+        - bf4_12
+        - bf4_RL_VerifyLinksFilters746791
+        - bf4_MultiManager651927
+        - bf4_AutomationShay
+        - bf4_NumericFormatting772927
+        - bf4_RL_Calculations_WithFiltering341562
+        - bf4_Test Calendar View Org
+        - bf4_CLARIZEN36
+        - bf4_FrozenColumns730725
+        - bf4_CalendarView108354
+        - bf4_Winterfell
+        - bf4_tal1
+        - bf4_InlineEditorsTest119375
+        - bf4_BID122649
+        - bf4_111111
+        - bf4_DD12
+        - bf4_mphq5wallacoil
+        - bf4_QA mphq6
+        - bf4_gdf
+        - bf4_EINAT78
+        - bf4_EINAT26
+        - bf4_acc1 Calendar 454
+        - bf4_acc2
+        - bf4_EINAT88
+        - bf4_rrrrr
+        - bf4_RL_WBD_Calculations_WithFiltering676193
+        - bf4_RU final
+        - bf4_NumericFormatting_Inline66641
+        - bf4_Calrizen
+        - bf4_Like a Version
+        - bf4_EINAT44
+        - bf4_Core_BID10831942381
+        - bf4_Core_CA_BUGS932628
+        - bf4_Core_CA_BID76052500231
+        - bf4_newfin
+        - bf4_FPTestElad Hahahah Elad
+        - bf4_Cla
+        - bf4_AbC
+        - bf4_ShaniOrg
+        - bf4_EladQA1
+        - bf4_Elad500
+        - bf4_750WI
+        - bf4_SyncAutomation
+        - bf4_454new
+        - bf4_sssssss
+        - bf4_CLARIZEN19
+        - bf4_CO_Admin_emails
+        - bf4_Core_BID_CLZDEV_10045910709
+        - bf4_Core_BID_CLZDEV_10428787389
+        - bf4_exporttest
+        - bf4_reports tests
+        - bf4_ABCD
+        - bf4_exportForImport
+        - bf4_epastage
+        - bf4_testrate
+        - bf4_newru
+        - bf4_testrate2
+        - bf4_testrate5
+        - bf4_timePhaseReportTest
+        - bf4_ratecard
+        - bf4_ChangeType_FromProj875313
+        - bf4_Separate DB GID659638
+        - bf4_testi2
+        - bf4_erf
+        - bf4_TanyaCh1
+        - bf4_TanyaCh2  676773
+        - bf4_qwerty
+        - bf4_CTS_BID92939_Chrome529527
+        - bf4_Test 1913 New Org
+        - bf4_APIReleaseManagement
+        - bf4_solr122
+        - bf4_RoniTestOrg
+        - bf4_migrationtest1
+        - bf4_Llohika test
+        - bf4_Clone2Acc1
+        - bf4_Clone3
+        - bf4_clone4
+        - bf4_EINAT_60_Clone2
+        - bf4_acc1_clone5
+        - bf4_hf9clone
+        - bf4_clone 8
+        - bf4_clone 9
+        - bf4_Ilan
+        - bf4_acc2_clone1
+        - bf4_clone_einat
+        - >-
+          bf4_Lorem ipsum dolor sit amet consectetur adipiscing elit s fgh fgh
+          fgh fgh fgh fgh fg hfgh fgh fgh fg h
+        - bf4_RL_QuickFilters_Load_Day
+        - bf4_RL_QuickFilters_Load_Week
+        - bf4_RL_QuickFilters_Load_Month
+        - bf4_RL_QuickFilters_Availability_Day
+        - bf4_RL_QuickFilters_Availability_Week
+        - bf4_RL_QuickFilters_Availability_Month
+        - bf4_RL_QuickFilters_Load_Hours
+        - bf4_RL_QuickFilters_Load_FTE
+        - bf4_RL_QuickFilters_Load_PersonDays
+        - bf4_RL_QuickFilters_RemainingEffort_Load
+        - bf4_RL_QuickFilters_RemainingEffort_Availability
+        - bf4_RL_QuickFilters_RemainingEffort_Availability_Hours
+        - bf4_RL_QuickFilters_RemainingEffort_Availability_FTE
+        - bf4_RL_QuickFilters_RemainingEffort_Availability_PersonDays
+        - bf4_ChangeType_FromTaskHammock994296
+        - bf4_Clarizen test tanya
+        - bf4_bastya clone 1
+        - bf4_Target
+        - bf4_new445
+        - bf4_FieldSet_CreateDefaultFieldsOnlyProfile642172
+        - bf4_target_25
+        - bf4_TestDirtyFlag231757
+        - bf4_AuditTrailForWorkItemApps351281
+        - bf4_SergeyKarpovichClarizencom
+        - bf4_filterbasic_grandChild1
+        - bf4_Second1
+        - bf4_second11
+        - bf4_second22
+        - bf4_second33
+        - bf4_third11_onsecond22
+        - bf4_second33_third2
+        - bf4_third22
+        - bf4_another1
+        - bf4_CV_ColorCoding_Part2_Duration
+        - bf4_CV_ColorCoding_Part2_Percent
+        - bf4_CV_ColorCoding_Part2_PickList
+        - bf4_CV_ColorCoding_Part2_Text
+        - bf4_CV_ColorCoding_Part2_Currency
+        - bf4_Natalia 2
+        - bf4_newfin with BUCP
+    value: '1'
+value: '2'
