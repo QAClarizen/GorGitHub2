@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad348e47e6c7ea5abbd71
+type: experiment
+name: bf4_ Enable Version Management
+flag: bf4_EnableVersionManagement
+value: true
