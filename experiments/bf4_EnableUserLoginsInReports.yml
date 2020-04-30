@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad3703840602b4af2d61d
+type: experiment
+name: bf4_ Enable User Logins In Reports
+flag: bf4_EnableUserLoginsInReports
+conditions:
+  - group:
+      name: bf4_Natalia
+    value: true
+value: false
