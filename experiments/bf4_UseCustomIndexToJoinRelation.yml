@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4d2730d1b569ccb4e11
+type: experiment
+name: bf4_ Use Custom Index To Join Relation
+flag: bf4_UseCustomIndexToJoinRelation
+value: true
