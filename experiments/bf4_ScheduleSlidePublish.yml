@@ -1,0 +1,24 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaad4643840606783f2e8cb
+type: experiment
+name: bf4_ Schedule Slide Publish
+flag: bf4_ScheduleSlidePublish
+conditions:
+  - group:
+      name:
+        - bf4_Einat
+        - bf4_Test Downgrade  103636
+        - bf4_EINAT18
+        - bf4_EINAT95
+        - bf4_EINAT98
+        - bf4_Clone 1 AABB
+        - bf4_Clone Of Clone AABB
+        - bf4_clone 11
+        - bf4_Float Factor  28929
+        - bf4_float00_clone3
+        - bf4_Lohika Test Anton 23
+        - bf4_OneLogin19278
+        - bf4_OneLoginClone
+        - bf4_epastage
+    value: true
+value: false
